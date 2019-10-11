@@ -1,0 +1,206 @@
+/* CSS Document */
+.logo2_div{
+	width:100%; 
+	height:200px;
+}
+.logo2_img{
+	width:100%; 
+	height:200px;
+}
+.hzgy{
+	width:250px; 
+	height:70px; 
+	line-height:30px; 
+	text-align:center; 
+	font-size:20px; 
+	font-family: 'Microsoft YaHei'; 
+	color:#fff; 
+	margin:0 auto; 
+	margin-top:-180px;
+}
+.mxqg{
+	width:300px; 
+	height:30px; 
+	line-height:30px; 
+	text-align:center; 
+	font-size:15px; 
+	font-family: 'Microsoft YaHei'; 
+	color:#fff; 
+	margin:0 auto;
+}
+.logo2_div .btn_div{
+width:270px; 
+height:50px; 
+margin:0 auto; 
+margin-top:15px; 
+z-index:1;
+}
+.jrdl{
+width:120px; 
+height:40px; 
+line-height:40px; 
+color:#fff; 
+text-align:center; 
+background-color:#16ba71; 
+font-family:'Microsoft YaHei'; 
+position:absolute;
+}
+.dldl{
+	width:120px; 
+	height:40px; 
+	line-height:40px; 
+	margin-left:150px; 
+	color:#fff; 
+	text-align:center; 
+	background-color:#FF6E35; 
+	font-family:'Microsoft YaHei'; 
+	position:absolute;
+}
+.xlssd{
+	width:100%; 
+	height:50px; 
+	line-height:50px; 
+	text-align:center; 
+	color:#30c17b; 
+	font-size:20px; 
+	font-weight:bold;
+}
+.wlsn{
+	width:300px; 
+	height:180px; 
+	text-align:center; 
+	color:#666; 
+	font-size:15px; 
+	margin:0 auto;
+}
+.logo3_img{
+	width:100%; 
+	height:250px;
+}
+.logo4_div{
+	width:100%; 
+	height:200px; 
+	background-color:#F5F5F5;
+}
+.qjgk{
+	width:100%; 
+	height:50px; 
+	line-height:50px; 
+	text-align:center; 
+	color:#30c17b; 
+	font-size:20px; 
+	font-weight:bold;
+}
+.logo4_img{
+	width:100%; 
+	height:150px;
+}
+.logo5_img{
+	width:100%; 
+	height:200px; 
+	margin-top:15px;
+}
+.logo6_div{
+	width:100%; 
+	height:250px;
+	margin-top:15px; 
+	background-color:#F5F5F5;
+}
+.logo6_img{
+	width:100%; 
+	height:200px; 
+	margin-top:15px;
+}
+.hhyl{
+	width:100%; 
+	height:50px; 
+	line-height:50px; 
+	text-align:center; 
+	color:#30c17b; 
+	font-size:20px; 
+	font-weight:bold; 
+	margin-top:-200px;
+}
+.logo7_div{
+	width:100%; 
+	height:250px;
+	margin-top:15px; 
+	background-color:#F5F5F5;
+}
+.hhrsqlc{
+	width:100%; 
+	height:60px; 
+	line-height:60px; 
+	text-align:center; 
+	color:#30c17b; 
+	font-size:20px; 
+	font-weight:bold;
+}
+.logo7_img{
+	width:100%; 
+	height:100px; 
+	margin-top:15px;
+}
+.htkhhrsqb{
+	width:100%; 
+	height:50px; 
+	line-height:50px; 
+	text-align:center; 
+	font-size:20px;
+	font-weight:bold; 
+	font-family: 'Microsoft YaHei'; 
+	color:#30c17b; 
+	margin:0 auto;
+}
+.qnrstx{
+	width:280px; 
+	height:50px; 
+	text-align:center; 
+	font-size:15px;
+	font-family: 'Microsoft YaHei'; 
+	color:#999; 
+	margin:0 auto;
+}
+.tab1 tr{
+	height:50px;
+}
+.tab1 .td1{
+	width:40%;
+	text-align:right; 
+	font-size:18px; 
+	font-weight:500;
+	color: gray;
+}
+.tab1 .td2{
+	width:60%;
+}
+.tab1 input{
+	width:90%;
+    height: 30px; 
+	font-size:18px;
+    background-color: #fff;
+    border: 1px #d2d2d2 solid;
+    border-radius: 5px;
+}
+.tab1 .pla{
+	padding-left: 5px;
+}
+.tab1 textarea{
+	width:88%;
+	font-size:18px;
+	background-color:#fff;
+	border:1px solid #d2d2d2;
+	border-radius:5px;
+	color:#999;
+}
+.tjbtn_div{
+	width:90%;
+	height: 40px; 
+	line-height:40px;
+	text-align: center;
+	font-size: 18px; 
+	color: #fff;
+	margin:0 auto;
+	background-color: #31C47B;
+	border-radius: 5px;
+}

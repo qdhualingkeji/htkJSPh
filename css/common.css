@@ -1,0 +1,116 @@
+/* CSS Document */
+body{
+	margin:0px;
+}
+.main_div{
+	width:100%;
+}
+.logo1_div{
+	width:100%; 
+	height:60px;
+}
+.logo1_img{
+	width:100px; 
+	height:50px;
+	margin-left:10px; 
+	margin-top:15px; 
+}
+/*
+.login_div{
+	width:100px; 
+	height:30px; 
+	line-height:30px; 
+	text-align:center; 
+	font-size: 20px; 
+	color:#30c17b; 
+	margin-top:-45px; 
+	margin-left:130px; 
+	background: #fff;
+	border: solid 1px #30c17c;
+	position:absolute;
+}
+.register_div{
+	background: #30c17b;
+	border: solid 1px #30c17c;
+	font-size: 20px; 
+	color:#fff; 
+	width:100px; 
+	height:30px; 
+	line-height:30px; 
+	text-align:center; 
+	margin-top:-45px; 
+	margin-left:250px; 
+	position:absolute;
+}
+*/
+header{
+	width:100%; 
+	height:120px; 
+	border-bottom:solid #f5f5f5 1px;
+	background-color:#fff;
+	position:fixed;
+	z-index:1;
+}
+header .nav{
+	height:60px;
+	line-height:60px;
+}
+header .nav div{
+	list-style:none;
+	float:left;
+	width:24%;
+	height:60px;
+	line-height:60px;
+	text-align:center;
+	font-size:15px;
+	color:#31c47b;
+}
+.space_div{
+	width:100%; 
+	height:120px;
+}
+.footer_div{
+	width:100%;
+	padding-top:25px; 
+	margin-top:30px;
+	background-color:rgb(63, 69, 81); 
+}
+.lxfs_div{
+	height:40px;
+	color:#fff; 
+	font-size:20px; 
+	padding-left:20px;
+}
+.dh_div,.cz_div,.yx_div,.sh1_div,.sh2_div,.dz_div{
+	height:30px;
+	color:rgb(129, 135, 140); 
+	font-size:15px; 
+	padding-left:20px;
+}
+.huanhang{
+	line-height:30px;
+	padding-right:20px;
+}
+.ecode_div{
+	width:100%;
+	text-align:center; 
+	margin-top:40px;
+}
+.ecode_img{
+	width:150px; 
+	height:150px;
+}
+.gzhtk{
+	height:30px; 
+	line-height:30px;
+	color:rgb(129, 135, 140); 
+	text-align:center; 
+	font-size:15px; 
+}
+.jmrx{
+	height:40px;
+	line-height:40px;
+	font-size:18px; 
+	text-align:center; 
+	color:#fff;
+}

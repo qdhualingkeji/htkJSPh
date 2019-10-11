@@ -1,0 +1,218 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="UTF-8">
+<meta name="Generator" content="EditPlus?">
+<meta name="Author" content="">
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<link href="css/common.css" rel="stylesheet"/>
+<link href="css/agents.css" rel="stylesheet"/>
+<link rel="stylesheet" type="text/css" href="Content/resource/css/swiper-3.4.0.min.css" />
+<link rel="stylesheet" type="text/css" href="Content/resource/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="Content/resource/css/index.css" />
+<link rel="stylesheet" type="text/css" href="trader/css/share.css" />
+<link rel="stylesheet" type="text/css" href="trader/css/trader.css" />
+<link rel="stylesheet" type="text/css" href="productstyle/css/product.css" />
+<link rel="stylesheet" type="text/css" href="productstyle/css/news.css" />
+<link href="Content/resource/changeIconFont/iconfont.css" rel="stylesheet" />
+<link href="trader/changsvg/iconfontpro.css" rel="stylesheet" />
+<title>回头客</title>
+<script src="Content/resource/js/jquery.min.js" type="fa465c4d66eaf89c2c4aafef-text/javascript" charset="utf-8"></script>
+</head>
+<body>
+<div class="main_div">
+	<header>
+		<div class="logo1_div">
+			<img class="logo1_img" src="image/home.png"/>
+			<!--
+			<div class="login_div">登录</div>
+			<div class="register_div">注册</div>
+			-->
+		</div>
+		<div class="nav">
+			<a href="index.html"><div>首页</div></a>
+			<a href="takeout.html"><div>外卖APP</div></a>
+			<a href="order.html"><div>扫码点餐</div></a>
+			<a href="agents.html"><div>合作代理</div></a>
+		</div>
+	</header>
+	<div class="space_div"></div>
+	<div class="logo2_div">
+		<img class="logo2_img" src="image/201810190003.png"/>
+		<div class="hzgy">合作共赢 共建智慧门店 共创新零售时代</div>
+		<div class="mxqg">面向全国诚招合伙人，期待志同道合的你！</div>
+		<div class="btn_div">
+			<div class="jrdl">加入代理</div>
+			<div class="dldl">登录代理</div>
+		</div>
+	</div>
+	<div class="xlssd">新零售时代蕴藏的商机</div>
+	<div class="wlsn">
+	“未来十年，没有纯粹的电子商务，线上线下和物流结合在一起才能诞生真正的新零售。”回头客APP作为全新一代综合餐饮管理系统，解决了餐饮行业多年以来积累的诸多经营难题，愿和众多有识之士一起，共创互联网经济新时代！ <br/>
+对各区域加盟代理商采取先免费试用再签协议的优惠政策，即使是在试用期内，我公司技术和商务团队也提供全方位技术支持。
+	</div>
+	<img class="logo3_img" src="image/201810190004.png"/>
+	<div class="logo4_div">
+		<div class="qjgk">前景广阔 商机无限 </div>
+		<img class="logo4_img" src="image/201810190005.png"/>
+	</div>
+	<img class="logo5_img" src="image/201810190006.png"/>
+	<div class="logo6_div">
+		<img class="logo6_img" src="image/201810190007.png"/>
+		<div class="hhyl">合伙人盈利点</div>
+	</div>
+	<div class="logo7_div">
+		<div class="hhrsqlc">合伙人申请流程</div>
+		<img class="logo7_img" src="image/201810190008.png"/>
+	</div>
+	<div class="htkhhrsqb">回头客合伙人申请表</div>
+	<div class="qnrstx">
+		请您如实填写信息，提交合作意向后，我们将在72小时内与您取得联系
+	</div>
+	<table class="tab1">
+		<tr>
+			<td class="td1">联系人姓名：</td>
+			<td class="td2">
+				<input type="text"/>
+			</td>
+		</tr>
+		<tr>
+			<td class="td1">联系电话：</td>
+			<td class="td2">
+				<input type="text"/>
+			</td>
+		</tr>
+		<tr>
+			<td class="td1">详细地址：</td>
+			<td class="td2">
+				<input class="pla" type="text" placeholder="请输入详细地址"/>
+			</td>
+		</tr>
+		<tr>
+			<td class="td1">合作意向：</td>
+			<td class="td2">
+				<textarea rows="5" placeholder="如果您需要我们提前准备，请简单描述合作意向"></textarea>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<div class="tjbtn_div">提交</div>
+			</td>
+		</tr>
+	</table>
+	<div class="footer_div">
+		<div class="lxfs_div">联系方式</div>
+		<div class="dh_div">电话：0532-55588351</div>
+		<div class="cz_div">传真：0532-55588352</div>
+		<div class="yx_div">邮箱：qdhualing@126.com</div>
+		<div class="sh1_div">商话1：15712773653</div>
+		<div class="sh2_div">商话2：15315019919</div>
+		<div class="dz_div huanhang">地址：山东省黄岛区双珠路288号东方金石大厦807室</div>
+		<div class="ecode_div">
+			<img class="ecode_img" src="image/201810170009.jpg"/>
+			<div class="gzhtk">关注回头客微信公众号</div>
+			<div class="jmrx">加盟热线：15712773653</div>
+		</div>
+	</div>
+</div>
+<div class="boradside">
+	<ul class="right_box">
+		<li class="right_small_box" id="zixun">
+			<img src="Content/resource/img/weixin.png" class="img-responsive center-block" />
+		</li>
+		<li class="right_small_box" id="dianhua">
+			<img src="Content/resource/img/phone_small_box.png" class="img-responsive center-block" />
+		</li>
+		<li class="right_small_box" id="code">
+			<img src="Content/resource/img/code_small_box.png" class="img-responsive center-block" />
+		</li>
+		<li class="right_small_box" id="code" style="background:#30c17b;color:#fff;">
+			<p style="padding-left:5px; padding-top:5px;">技&nbsp;&nbsp;&nbsp;术</p>
+			<p style="padding-left:5px; padding-top:0px;">支&nbsp;&nbsp;&nbsp;持</p>
+		</li>
+		<li class="right_small_box" id="zhiding" style="border: none;background:rgba(0, 0, 0, 0.3)">
+		<img src="Content/resource/img/zhiding.png" class="img-responsive center-block" />
+		</li>
+	</ul>
+	<div class="left_box">
+		<div class="left_small_box">
+			<ul>
+				<li style="font-size: 14px;">请选择以下客服进行咨询</li>
+				<li>
+					<a href="http://wpa.qq.com/msgrd?v=3&uin=1578569337&site=qq&menu=yes" style="width:150px;height:50px;line-height: 50px;margin: auto;color: #31C47B;">
+					客服1：1578569337&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+				</li>
+				<li>
+					<a href="http://wpa.qq.com/msgrd?v=3&uin=2624691289&site=qq&menu=yes" style="width:150px;height:50px;line-height: 50px;margin: auto;color: #31C47B;">
+					客服2：2624691289&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+				</li>
+				<li>
+					<a href="http://wpa.qq.com/msgrd?v=3&uin=656628150&site=qq&menu=yes" style="width:150px;height:50px;line-height: 50px;margin: auto;color: #31C47B;">
+					客服3：656628150&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+				</li>
+			</ul>
+			<div class="active_block">&nbsp;</div>
+		</div>
+		<div class="left_small_box">
+			<ul>
+				<li class="list_box_small_2" style="font-size: 15px;">代理加盟咨询热线</li>
+				<li class="list_box_small_2" style="font-size: 18px;color: #31C47B;"><img src="Content/resource/img/dianhua.png" />15712773653</li>
+				<li style="height: 60px;">
+					<p>电话咨询服务时间 </p>
+					<p>周一至周日 9:00至22:00</p>
+				</li>
+			</ul>
+			<div class="active_block">&nbsp;</div>
+		</div>
+		<div class="left_small_box">
+			<ul class="code_img" style="margin: auto;">
+				<!--
+				<li style="height: 120px;">
+					<img src="Content/resource/img/code_img1.png" class="img-responsive center-block" />
+					<p style="font-size: 14px;">扫描咨询</p>
+				</li>
+				-->
+				<li style="height: 120px;">
+					<img src="Content/resource/img/ecode.jpg" style="width:96px;height:96px;margin-left:75px;" />
+					<p style="margin-left:50px;width:140px;">关注回头客微信公众号</p>
+				</li>
+			</ul>
+			 <div class="active_block">&nbsp;</div>
+		</div>
+		<div class="left_small_box">
+			<ul>
+				<li style="font-size: 14px;height:50px;line-height:50px;text-align:center;">技术支持</li>
+				<li style="font-size: 14px;height:50px;line-height:50px;text-align:center;color:#31c47b;">技术支持热线：0532-55588351</li>
+				<li style="font-size: 14px;height:50px;line-height:50px;text-align:center;color:#31c47b;">售后技术支持：15315019919&nbsp;&nbsp;&nbsp;&nbsp;</li>
+				<li style="font-size: 14px;height:50px;line-height:50px;text-align:center;color:#31c47b;">开发技术支持：18765943028&nbsp;&nbsp;&nbsp;&nbsp;</li>
+				<!--
+				<li>
+					<a href="tencent://message/?uin=2155919045&amp;Site=客服&amp;Menu=yes" class="small_btn_a" style="width:172px;">开通支付，支付对账问题</a>
+				</li>
+				<li>
+					<a href="tencent://message/?uin=2189019178&amp;Site=客服&amp;Menu=yes" class="small_btn_a">开通餐饮，硬件绑定</a>
+				</li>
+				<li>
+					<a href="tencent://message/?uin=961917159&amp;Site=客服&amp;Menu=yes" class="small_btn_a">其它问题，请联系</a>
+				</li>
+				-->
+			</ul>
+			<div class="active_block">&nbsp;</div>
+		</div>
+	</div>
+</div>
+<script src="Content/resource/js/swiper-3.4.0.jquery.min.js" type="fa465c4d66eaf89c2c4aafef-text/javascript" charset="utf-8"></script>
+<script src="Content/resource/js/bootstrap.min.js" type="fa465c4d66eaf89c2c4aafef-text/javascript" charset="utf-8"></script>
+<script src="Content/resource/js/javascriptindex.js" type="fa465c4d66eaf89c2c4aafef-text/javascript" charset="utf-8"></script>
+<script type="fa465c4d66eaf89c2c4aafef-text/javascript">
+	setTimeout(function(){
+		$("#nb_icon_wrap").remove();
+		$(".nb-invite-body").remove();
+		$("#newBridge").remove();
+	}, 1000);
+   </script>
+<script src="https://edge.yunjiasu.com/cdn-cgi/scripts/2448a7bd/cloudflare-static/rocket-loader.min.js" data-cf-nonce="fa465c4d66eaf89c2c4aafef-" defer=""></script>
+</body>
+</html>

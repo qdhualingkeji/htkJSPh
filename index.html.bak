@@ -1,0 +1,268 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="Generator" content="EditPlus®">
+<meta name="Author" content="">
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<link href="css/common.css" rel="stylesheet"/>
+<link href="css/index.css" rel="stylesheet"/>
+<link rel="stylesheet" type="text/css" href="Content/resource/css/swiper-3.4.0.min.css" />
+<link rel="stylesheet" type="text/css" href="Content/resource/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="Content/resource/css/index.css" />
+<link rel="stylesheet" type="text/css" href="trader/css/share.css" />
+<link rel="stylesheet" type="text/css" href="trader/css/trader.css" />
+<link rel="stylesheet" type="text/css" href="productstyle/css/product.css" />
+<link rel="stylesheet" type="text/css" href="productstyle/css/news.css" />
+<link href="Content/resource/changeIconFont/iconfont.css" rel="stylesheet" />
+<link href="trader/changsvg/iconfontpro.css" rel="stylesheet" />
+<title>回头客</title>
+<script src="Content/resource/js/jquery.min.js" type="fa465c4d66eaf89c2c4aafef-text/javascript" charset="utf-8"></script>
+</head>
+<body>
+<div class="main_div">
+	<header>
+		<div class="logo1_div">
+			<img class="logo1_img" src="image/home.png"/>
+			<!--
+			<div class="login_div">登录</div>
+			<div class="register_div">注册</div>
+			-->
+		</div>
+		<div class="nav">
+			<a href="index.html"><div>首页</div></a>
+			<a href="takeout.html"><div>外卖APP</div></a>
+			<a href="order.html"><div>扫码点餐</div></a>
+			<a href="agents.html"><div>合作代理</div></a>
+		</div>
+	</header>
+	
+	<div class="space_div"></div>
+	<div class="logo2_div">
+		<img class="logo2_img" src="image/201810170001.png"/>
+		<div class="ljzc_div">
+			<div class="btn_div">
+				<!--
+				<a href="mqqwpa://im/chat?chat_type=wpa&uin=1578569337&version=1&src_type=web&web_src=oicqzone.com">立即咨询</a>
+				-->
+				<a href="http://wpa.qq.com/msgrd?v=3&uin=1578569337&site=qq&menu=yes">立即咨询</a>
+			</div>
+		</div>
+	</div>
+	<div class="xsct">
+		线上餐厅 将餐厅搬到线上
+	</div>
+	<div class="bnxy">
+		帮您吸引更多的客源，顾客用微信即可访问您的餐厅，下单、用餐、支付一条龙，方便快捷
+	</div>
+	<img class="logo3_img" src="image/201810170002.png"/>
+	<div class="smdc_div">
+		<div class="smdc">
+			扫码点餐 不一样的点餐体验
+		</div>
+		<div class="qdsc">
+			取代手抄点餐方式，扫桌码、菜码，即可以在线点餐下单，省力高效
+		</div>
+		<img class="logo4_img" src="image/201810170003.png"/>
+	</div>
+	<div class="yyzj">
+		拥有自己的外卖平台
+	</div>
+	<div class="btdsf">
+		摆脱第三方外卖平台依赖，不需平台佣金。无同行竞争，更公平的营销环境
+	</div>
+	<table class="tab1">
+		<tr>
+			<td>
+				<div class="img_div img1"></div>
+				<div class="text_div">支持活动营销</div>
+			</td>
+			<td>
+				<div class="img_div img2"></div>
+				<div class="text_div">自定义配送</div>
+			</td>
+			<td>
+				<div class="img_div img3"></div>
+				<div class="text_div">外卖订单统一管理</div>
+			</td>
+		</tr>
+	</table>
+	<div class="logo5_div">
+		<img class="logo5_img" src="image/201810170005.png"/>
+	</div>
+	<div class="tab2_div">
+		<div class="cpldgn">产品亮点功能</div>
+		<table class="tab2" cellspacing="0">
+			<tr>
+				<td>
+					<div class="img_div img1"></div>
+					<div class="title">无抽成外卖</div>
+					<div class="description">拥有自己的外卖APP，无平台抽成</div>
+				</td>
+				<td>
+					<div class="img_div img2"></div>
+					<div class="title">扫码自助点餐</div>
+					<div class="description">节省服务人员，方便顾客点餐</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<div class="img_div img3"></div>
+					<div class="title">语言提醒</div>
+					<div class="description">餐厅接收到新订单，会有语音提醒</div>
+				</td>
+				<td>
+					<div class="img_div img4"></div>
+					<div class="title">预定座位</div>
+					<div class="description">提前完成座位预定，并赠送积分</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<div class="img_div img5"></div>
+					<div class="title">折扣方案</div>
+					<div class="description">指定菜品进行折扣方式设置</div>
+				</td>
+				<td>
+					<div class="img_div img6"></div>
+					<div class="title">套菜管理</div>
+					<div class="description">可以设置套餐的明细菜品</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<div class="img_div img7"></div>
+					<div class="title">会员积分管理</div>
+					<div class="description">消费生成积分，培养顾客忠诚度</div>
+				</td>
+				<td>
+					<div class="img_div img8"></div>
+					<div class="title">其它</div>
+					<div class="description">加菜、催菜、退菜、换台、叫起</div>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<img class="logo6_img" src="image/201810170007.png"/>
+	<img class="logo7_img" src="image/201810170008.png"/>
+	<a style="text-decoration:none;" href="tencent://message/?uin=3459313137&Site=客服&Menu=yes">
+		<div class="ljzx">
+			立即咨询加盟事宜
+		</div>
+	</a>
+	<div class="footer_div">
+		<div class="lxfs_div">联系方式</div>
+		<div class="dh_div">电话：0532-55588351</div>
+		<div class="cz_div">传真：0532-55588352</div>
+		<div class="yx_div">邮箱：qdhualing@126.com</div>
+		<div class="sh1_div">商话1：15712773653</div>
+		<div class="sh2_div">商话2：15315019919</div>
+		<div class="dz_div huanhang">地址：山东省黄岛区双珠路288号东方金石大厦807室</div>
+		<div class="ecode_div">
+			<img class="ecode_img" src="image/201810170009.jpg"/>
+			<div class="gzhtk">关注回头客微信公众号</div>
+			<div class="jmrx">加盟热线：15712773653</div>
+		</div>
+	</div>
+</div>
+<div class="boradside">
+	<ul class="right_box">
+		<li class="right_small_box" id="zixun">
+			<img src="Content/resource/img/weixin.png" class="img-responsive center-block" />
+		</li>
+		<li class="right_small_box" id="dianhua">
+			<img src="Content/resource/img/phone_small_box.png" class="img-responsive center-block" />
+		</li>
+		<li class="right_small_box" id="code">
+			<img src="Content/resource/img/code_small_box.png" class="img-responsive center-block" />
+		</li>
+		<li class="right_small_box" id="code" style="background:#30c17b;color:#fff;">
+			<p style="padding-left:5px; padding-top:5px;">技&nbsp;&nbsp;&nbsp;术</p>
+			<p style="padding-left:5px; padding-top:0px;">支&nbsp;&nbsp;&nbsp;持</p>
+		</li>
+		<li class="right_small_box" id="zhiding" style="border: none;background:rgba(0, 0, 0, 0.3)">
+		<img src="Content/resource/img/zhiding.png" class="img-responsive center-block" />
+		</li>
+	</ul>
+	<div class="left_box">
+		<div class="left_small_box">
+			<ul>
+				<li style="font-size: 14px;">请选择以下客服进行咨询</li>
+				<li>
+					<a href="http://wpa.qq.com/msgrd?v=3&uin=1578569337&site=qq&menu=yes" style="width:150px;height:50px;line-height: 50px;margin: auto;color: #31C47B;">
+					客服1：1578569337&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+				</li>
+				<li>
+					<a href="http://wpa.qq.com/msgrd?v=3&uin=2624691289&site=qq&menu=yes" style="width:150px;height:50px;line-height: 50px;margin: auto;color: #31C47B;">
+					客服2：2624691289&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+				</li>
+				<li>
+					<a href="http://wpa.qq.com/msgrd?v=3&uin=656628150&site=qq&menu=yes" style="width:150px;height:50px;line-height: 50px;margin: auto;color: #31C47B;">
+					客服3：656628150&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+				</li>
+			</ul>
+			<div class="active_block">&nbsp;</div>
+		</div>
+		<div class="left_small_box">
+			<ul>
+				<li class="list_box_small_2" style="font-size: 15px;">代理加盟咨询热线</li>
+				<li class="list_box_small_2" style="font-size: 18px;color: #31C47B;"><img src="Content/resource/img/dianhua.png" />15712773653</li>
+				<li style="height: 60px;">
+					<p>电话咨询服务时间 </p>
+					<p>周一至周日 9:00至22:00</p>
+				</li>
+			</ul>
+			<div class="active_block">&nbsp;</div>
+		</div>
+		<div class="left_small_box">
+			<ul class="code_img" style="margin: auto;">
+				<!--
+				<li style="height: 120px;">
+					<img src="Content/resource/img/code_img1.png" class="img-responsive center-block" />
+					<p style="font-size: 14px;">扫描咨询</p>
+				</li>
+				-->
+				<li style="height: 120px;">
+					<img src="Content/resource/img/ecode.jpg" style="width:96px;height:96px;margin-left:75px;" />
+					<p style="margin-left:50px;width:140px;">关注回头客微信公众号</p>
+				</li>
+			</ul>
+			 <div class="active_block">&nbsp;</div>
+		</div>
+		<div class="left_small_box">
+			<ul>
+				<li style="font-size: 14px;height:50px;line-height:50px;text-align:center;">技术支持</li>
+				<li style="font-size: 14px;height:50px;line-height:50px;text-align:center;color:#31c47b;">技术支持热线：0532-55588351</li>
+				<li style="font-size: 14px;height:50px;line-height:50px;text-align:center;color:#31c47b;">售后技术支持：15315019919&nbsp;&nbsp;&nbsp;&nbsp;</li>
+				<li style="font-size: 14px;height:50px;line-height:50px;text-align:center;color:#31c47b;">开发技术支持：18765943028&nbsp;&nbsp;&nbsp;&nbsp;</li>
+				<!--
+				<li>
+					<a href="tencent://message/?uin=2155919045&amp;Site=客服&amp;Menu=yes" class="small_btn_a" style="width:172px;">开通支付，支付对账问题</a>
+				</li>
+				<li>
+					<a href="tencent://message/?uin=2189019178&amp;Site=客服&amp;Menu=yes" class="small_btn_a">开通餐饮，硬件绑定</a>
+				</li>
+				<li>
+					<a href="tencent://message/?uin=961917159&amp;Site=客服&amp;Menu=yes" class="small_btn_a">其它问题，请联系</a>
+				</li>
+				-->
+			</ul>
+			<div class="active_block">&nbsp;</div>
+		</div>
+	</div>
+</div>
+<script src="Content/resource/js/swiper-3.4.0.jquery.min.js" type="fa465c4d66eaf89c2c4aafef-text/javascript" charset="utf-8"></script>
+<script src="Content/resource/js/bootstrap.min.js" type="fa465c4d66eaf89c2c4aafef-text/javascript" charset="utf-8"></script>
+<script src="Content/resource/js/javascriptindex.js" type="fa465c4d66eaf89c2c4aafef-text/javascript" charset="utf-8"></script>
+<script type="fa465c4d66eaf89c2c4aafef-text/javascript">
+	setTimeout(function(){
+		$("#nb_icon_wrap").remove();
+		$(".nb-invite-body").remove();
+		$("#newBridge").remove();
+	}, 1000);
+   </script>
+<script src="https://edge.yunjiasu.com/cdn-cgi/scripts/2448a7bd/cloudflare-static/rocket-loader.min.js" data-cf-nonce="fa465c4d66eaf89c2c4aafef-" defer=""></script>
+</body>
+</html>

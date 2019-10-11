@@ -1,0 +1,240 @@
+/* CSS Document */
+.logo2_div{
+	width:100%; 
+	height:250px;
+}
+.logo2_img{
+	width:100%; 
+	height:250px;
+}
+.ljzc_div{
+	width:100%; 
+	height:30px; 
+	margin-top:-175px;
+	position:absolute; 
+}
+.ljzc_div .btn_div{
+	width:100px; 
+	height:30px; 
+	line-height:30px; 
+	color: #748ae4; 
+	margin:0 auto;
+	text-align:center; 
+	font-size:18px;
+	background-color: #fff; 
+}
+.xsct{
+	width:100%; 
+	height:40px; 
+	line-height:40px;
+	color: rgb(102, 102, 102);
+	text-align:center; 
+	font-size:25px; 
+	font-weight:bold; 
+	margin-top:10px;
+}
+.bnxy{
+	width:90%; 
+	height:40px; 
+	line-height:20px;
+	color: rgb(102, 102, 102);
+	text-align:center; 
+	font-size:15px; 
+	margin:0 auto;
+}
+.logo3_img{
+	width:100%; 
+	height:100px;
+}
+.smdc_div{
+	width:100%; 
+	background-color:rgb(246, 246, 246);
+}
+.smdc{
+	width:100%; 
+	height:40px; 
+	line-height:40px; 
+	color:rgb(102, 102, 102); 
+	text-align:center; 
+	font-size:25px; 
+	font-weight:bold; 
+	margin-top: 20px;
+}
+.qdsc{
+	width:90%; 
+	height:30px; 
+	line-height:30px;
+	color: rgb(102, 102, 102);
+	text-align:center; 
+	font-size:15px;
+	margin:0 auto;
+}
+.logo4_img{
+	width:100%; 
+	height:180px; 
+	margin-top:30px;
+}
+.yyzj{
+	width:100%; 
+	height:40px; 
+	line-height:40px; 
+	text-align:center; 
+	color:rgb(102, 102, 102); 
+	font-size:25px; 
+	font-family:Microsoft YaHei; 
+	font-weight:bold; 
+	margin-top:20px;
+}
+.btdsf{
+	width:90%; 
+	height:30px; 
+	line-height:30px;
+	color: rgb(102, 102, 102);
+	text-align:center; 
+	font-size:15px;
+	margin:0 auto;
+}
+.tab1{
+	width:100%; 
+	height:100px; 
+	text-align:center; 
+	margin-top:30px;
+}
+.tab1 td{
+	width:33%;
+}
+.tab1 .img_div{
+	width:60px; 
+	height:59px; 
+	margin:auto;
+	background-image:url(../image/201810170004.png);
+	background-origin: padding-box;
+	background-position-x: 50%;
+	background-repeat: repeat;
+	background-size: 100% auto; 
+}
+.tab1 .img1{
+	background-position: 50% 0px;
+	background-position-y: 0px;
+}
+.tab1 .img2{
+	background-position: 50% -59px;
+	background-position-y: -59px;
+}
+.tab1 .img3{
+	background-position: 50% -118px;
+	background-position-y: -118px;
+}
+.tab1 .text_div{
+	width:100%; 
+	height:40px; 
+	line-height:40px; 
+	text-align:center; 
+	color:rgb(102, 102, 102); 
+	font-size:14px;
+}
+.logo5_div{
+	text-align:center;
+}
+.logo5_img{
+	width:60%; 
+	height:180px;
+}
+.tab2_div{
+	width:100%; 
+	background-color:rgb(246, 246, 246);
+}
+.cpldgn{
+	width:100%; 
+	height:60px; 
+	line-height:60px; 
+	text-align:center; 
+	color:rgb(102, 102, 102); 
+	font-size:25px; 
+	font-weight:bold;
+}
+.tab2{
+	width:90%;
+	margin:0 auto;
+}
+.tab2 td{
+	border:5px solid rgb(246, 246, 246);
+	width:45%;
+	padding:15px;
+	background-color:#fff;
+}
+.tab2 .img_div{
+	width:100px; 
+	height:100px;
+	background-image:url(../image/201810170006.png);
+	background-position:-x:50%;
+}
+.tab2 .img1{
+	background-position:50% 0px;  
+	background-position-y:0px;
+}
+.tab2 .img2{
+	background-position:50% -100px; 
+	background-position-y:-100px;
+}
+.tab2 .img3{
+	background-position:50% -200px;  
+	background-position-y:-200px;
+}
+.tab2 .img4{
+	background-position:50% -300px;  
+	background-position-y:-300px;
+}
+.tab2 .img5{
+	background-position:50% -400px;  
+	background-position-y:-400px;
+}
+.tab2 .img6{
+	background-position:50% -500px;  
+	background-position-y:-500px;
+}
+.tab2 .img7{
+	background-position:50% -600px;  
+	background-position-y:-600px;
+}
+.tab2 .img8{
+	background-position:50% -700px; 
+	background-position-y:-700px;
+}
+.tab2 .title{
+	width:100%; 
+	height:30px; 
+	line-height:30px; 
+	color:rgb(102, 102, 102); 
+	font-size:20px;
+}
+.tab2 .description{
+	width:100%; 
+	height:20px; 
+	line-height:20px; 
+	color:rgb(102, 102, 102); 
+	font-size:14px;
+}
+.logo6_img{
+	width:100%; 
+	height:200px;
+}
+.logo7_img{
+	width:100%; 
+	height:300px;
+}
+.ljzx{
+	width:150px; 
+	height:40px; 
+	line-height:40px; 
+	text-align:center; 
+	color:#fff; 
+	font-size:15px; 
+	margin:0 auto; 
+	margin-top:10px; 
+	background-color:#ff6600; 
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
