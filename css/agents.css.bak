@@ -65,7 +65,7 @@
 	text-align: center;
 	font-size: 15px;
 	font-family: 'Microsoft YaHei';
-	color:#F00;
+	color:#FF6E35;
 	margin: 0 auto;
 }
 .xlssd{

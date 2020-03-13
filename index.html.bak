@@ -5,7 +5,7 @@
 <meta name="Generator" content="EditPlus®">
 <meta name="Author" content="">
 <meta name="Keywords" content="">
-<meta name="Description" content="">
+<meta name="Description" content="青岛华凌科技有限公司专业致力于软件开发，公司独立自主开发的回头客餐饮APP，是一款综合餐饮管理软件.主要包括无平台抽成外卖、无平台抽成团购、到店扫码即可点菜等多个功能模块，软件无抽成！">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <link href="css/common.css" rel="stylesheet"/>
 <link href="css/index.css" rel="stylesheet"/>
@@ -262,7 +262,16 @@
 		$(".nb-invite-body").remove();
 		$("#newBridge").remove();
 	}, 1000);
-   </script>
+</script>
+<script type="text/javascript">
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "https://hm.baidu.com/hm.js?4438778baeeab3b0e77fc0b4600791cb";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
+</script>
 <script src="https://edge.yunjiasu.com/cdn-cgi/scripts/2448a7bd/cloudflare-static/rocket-loader.min.js" data-cf-nonce="fa465c4d66eaf89c2c4aafef-" defer=""></script>
 </body>
 </html>

@@ -5,7 +5,7 @@
 <meta name="Generator" content="EditPlus?">
 <meta name="Author" content="">
 <meta name="Keywords" content="">
-<meta name="Description" content="">
+<meta name="Description" content="青岛华凌科技有限公司专业致力于软件开发，公司独立自主开发的回头客餐饮APP，是一款综合餐饮管理软件.主要包括无平台抽成外卖、无平台抽成团购、到店扫码即可点菜等多个功能模块，软件无抽成！">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <link href="css/common.css" rel="stylesheet"/>
 <link href="css/agents.css" rel="stylesheet"/>
@@ -43,10 +43,13 @@
 		<img class="logo2_img" src="image/201810190003.png"/>
 		<div class="hzgy">合作共赢 共建智慧门店 共创新零售时代</div>
 		<div class="mxqg">面向全国诚招合伙人，期待志同道合的你！</div>
+		<!--
 		<div class="btn_div">
 			<div class="jrdl">加入代理</div>
 			<div class="dldl">登录代理</div>
 		</div>
+		-->
+		<div class="zsrx" style="width: 300px;height: 40px;line-height: 40px;text-align: center;font-size: 15px;font-family: 'Microsoft YaHei';color:#fff;margin: 0 auto;">招商热线：15712773653 微信同号</div>
 	</div>
 	<div class="xlssd">新零售时代蕴藏的商机</div>
 	<div class="wlsn">
